@@ -1,0 +1,14 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ancient Light orbital lab</title>
+  <desc id="desc">A small pixel-style orbital lab mark for the ancient-light GitHub profile.</desc>
+  <rect width="180" height="180" rx="28" fill="#0F172A"/>
+  <circle cx="90" cy="90" r="35" fill="#F8FAFC"/>
+  <circle cx="78" cy="82" r="5" fill="#0F172A"/>
+  <circle cx="104" cy="82" r="5" fill="#0F172A"/>
+  <path d="M77 104c8 7 19 7 27 0" stroke="#0F172A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M32 114c32-51 82-72 119-62 13 4 19 12 15 21-9 22-76 43-133 39" stroke="#38BDF8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M44 50c31 8 72 35 91 76" stroke="#A3E635" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="136" cy="48" r="11" fill="#FACC15"/>
+  <circle cx="43" cy="118" r="7" fill="#FB7185"/>
+  <path d="M90 25v17M90 138v17M25 90h17M138 90h17" stroke="#94A3B8" stroke-width="6" stroke-linecap="round"/>
+</svg>
